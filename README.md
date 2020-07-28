@@ -8,6 +8,6 @@
 Os arquivos Terraform provisionam:
 
 - Web App com o Service Plan
-- Azure Database (MySQL e Database)
-- Azure Cache Redis
+- Banco de Dados do Azure para MySQL (MySQL e Database)
+- Cache do Azure para Redis
 - VNET (Network e Subnet)
